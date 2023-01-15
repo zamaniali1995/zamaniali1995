@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Ali's GitHub Banner](./assets/GitHubHeader.png)](https://github.com/zamaniali1995/zamaniali1995)
 
 <!--
 **zamaniali1995/zamaniali1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
