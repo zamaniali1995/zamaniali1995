@@ -15,11 +15,11 @@ async function main() {
     console.log(office_quote);
 
 
-    const readme = readmeTemplate
-        .replace("{office_quote}", office_quote.data.content)
-        .replace("{office_character}", `- ${office_quote.data.character.firstname} ${office_quote.data.character.lastname}`)
+    // const readme = readmeTemplate
+    //     .replace("{office_quote}", office_quote.data.content)
+    //     .replace("{office_character}", `- ${office_quote.data.character.firstname} ${office_quote.data.character.lastname}`)
 
-    await fs.writeFile("README.md", readme);
+    // await fs.writeFile("README.md", readme);
 }
 
 main();
