@@ -11,36 +11,37 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/zamaniali1995/fraud-detection">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-ngd1.vercel.app/api/pin/?username=zamaniali1995&repo=fraud-detection&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zamaniali1995&repo=fraud-detection&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/zamaniali1995/notMNIST-dataset">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-ngd1.vercel.app/api/pin/?username=zamaniali1995&repo=notMNIST-dataset&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zamaniali1995&repo=notMNIST-dataset&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/zamaniali1995/RL-4-SFC-mapping">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-ngd1.vercel.app/api/pin/?username=zamaniali1995&repo=RL-4-SFC-mapping&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zamaniali1995&repo=RL-4-SFC-mapping&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/zamaniali1995/load-balancing-4-SFC-Mapping">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-ngd1.vercel.app/api/pin/?username=zamaniali1995&repo=load-balancing-4-SFC-Mapping&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zamaniali1995&repo=load-balancing-4-SFC-Mapping&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/zamaniali1995">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-ngd1.vercel.app/api?username=zamaniali1995&show_icons=true&theme=radical&count_private=true" alt="Ali's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zamaniali1995&show_icons=true&theme=radical&count_private=true" alt="Ali's GitHub Stats" />
 </a>
 
 ## 💼 Skills
 
 
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Tensorflow-informational?style=flat&logo=Tensorflow&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=Sql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NLTK-informational?style=flat&logo=NLTK&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Pytorch-informational?style=flat&logo=Pytorch&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Keras-informational?style=flat&logo=Keras&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Sklearn-informational?style=flat&logo=Sklearn&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
@@ -86,4 +87,3 @@ Want to know more about me? [Check out my portfolio.](https://www.linkedin.com/i
 ![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
 
 </details>
-
