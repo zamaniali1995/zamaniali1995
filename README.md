@@ -1,4 +1,5 @@
-[![Ali's GitHub Banner](./assets/White Minimalist Corporate Personal Profile LinkedIn Banner.png)](https://github.com/zamaniali1995/zamaniali1995)
+[![Ali's GitHub Banner](./assets/linkedinBanner.png
+)](https://github.com/zamaniali1995/zamaniali1995)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zamaniali1995/)
 
