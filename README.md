@@ -9,6 +9,10 @@ I’m Ali, a data scientist, data developer, machine learning developer, and cha
 
 Want to know more about me? [Check out my portfolio.](https://zamaniali1995.github.io/)
 
+
+[![HAPPY](./assets/happy.gif
+)](https://github.com/zamaniali1995/zamaniali1995)
+
 ## 📌 Pinned Repositories
 
 <a href="https://github.com/zamaniali1995/ml-pipeline">
