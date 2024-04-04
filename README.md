@@ -5,7 +5,8 @@
 
 Hey there 👋
 
-(./assets/pacman.gif)
+[![HAPPY](./assets/pacman.gif
+)](https://github.com/zamaniali1995/zamaniali1995)
 
 I’m Ali, a data scientist, data developer, machine learning developer, and chatbot developer.
 
