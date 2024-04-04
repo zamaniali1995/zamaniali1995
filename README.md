@@ -4,7 +4,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zamaniali1995/)
 
 Hey there 👋
-[![pacman](./assets/pacman.gif)
+
+./assets/pacman.gif
 
 I’m Ali, a data scientist, data developer, machine learning developer, and chatbot developer.
 
