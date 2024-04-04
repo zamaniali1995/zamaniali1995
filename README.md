@@ -5,7 +5,7 @@
 
 Hey there 👋
 
-./assets/pacman.gif
+(./assets/pacman.gif)
 
 I’m Ali, a data scientist, data developer, machine learning developer, and chatbot developer.
 
