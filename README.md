@@ -8,7 +8,7 @@ Hey there 👋
 [![HAPPY](./assets/pacman.gif
 )](https://github.com/zamaniali1995/zamaniali1995)
 
-I’m Ali, a , Machine Learning Engineer, and Data Scientist.
+I'm Ali, a Machine Learning Engineer and Data Scientist.
 
 Want to know more about me? [Check out my portfolio.](https://zamaniali1995.github.io/)
 
