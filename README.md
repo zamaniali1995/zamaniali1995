@@ -9,9 +9,13 @@
 
 </div>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zamaniali1995/)
+<a href="https://www.linkedin.com/in/zamaniali1995/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zamaniali1995/)
+<a href="https://zamaniali1995.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-Website-000000?style=for-the-badge&logo=vercel" />
+</a>
 
 <!-- Hey there 👋 -->
 
