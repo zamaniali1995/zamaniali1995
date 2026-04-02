@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Hi there, I'm Ali Zamani 👋
+# Hi there, I'm Ali 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2000&multiline=true&width=455&height=59&lines=Machine+Learning+Engineer+and+;Data+Scientist)](https://git.io/typing-svg)
 
@@ -11,12 +11,12 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zamaniali1995/)
 
-Hey there 👋
+<!-- Hey there 👋 -->
 
-[![HAPPY](./assets/pacman.gif
-)](https://github.com/zamaniali1995/zamaniali1995)
+<!-- [![HAPPY](./assets/pacman.gif
+)](https://github.com/zamaniali1995/zamaniali1995) -->
 
-I'm Ali, a Machine Learning Engineer and Data Scientist.
+<!-- I'm Ali, a Machine Learning Engineer and Data Scientist. -->
 
 Want to know more about me? [Check out my portfolio.](https://zamaniali1995.github.io/)
 
