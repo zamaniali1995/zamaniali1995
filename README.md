@@ -58,7 +58,7 @@
 [![HAPPY](./assets/happy.gif
 )](https://github.com/zamaniali1995/zamaniali1995) -->
 
-## 📌 Pinned Repositories
+<!-- ## 📌 Pinned Repositories
 
 <a href="https://github.com/zamaniali1995/ml-pipeline">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=zamaniali1995&repo=ml-pipeline&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -86,7 +86,7 @@
 
 <a href="https://github.com/zamaniali1995">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zamaniali1995&show_icons=true&theme=radical&count_private=true" alt="Ali's GitHub Stats" />
-</a>
+</a> -->
 
 ## 💼 Skills
 
