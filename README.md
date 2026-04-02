@@ -19,7 +19,7 @@
 <!-- I'm Ali, a Machine Learning Engineer and Data Scientist. -->
 
 Want to know more about me? [Check out my portfolio.](https://zamaniali1995.github.io/)
-[![Ali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zamaniali1995)](https://github.com/zamaniali1995/github-readme-activity-graph)
+[![Ali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zamaniali1995&theme=dracula)](https://github.com/zamaniali1995/github-readme-activity-graph)
 
 [![HAPPY](./assets/happy.gif
 )](https://github.com/zamaniali1995/zamaniali1995)
