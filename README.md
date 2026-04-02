@@ -43,8 +43,20 @@
 
 ---
 
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zamaniali1995)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zamaniali1995/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zamaniali1995@gmail.com)
+
+</div>
+
+---
+<!-- 
 [![HAPPY](./assets/happy.gif
-)](https://github.com/zamaniali1995/zamaniali1995)
+)](https://github.com/zamaniali1995/zamaniali1995) -->
 
 ## 📌 Pinned Repositories
 
