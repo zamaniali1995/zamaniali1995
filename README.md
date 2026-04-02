@@ -11,6 +11,8 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zamaniali1995/)
 
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zamaniali1995/)
+
 <!-- Hey there 👋 -->
 
 <!-- [![HAPPY](./assets/pacman.gif
@@ -19,7 +21,17 @@
 <!-- I'm Ali, a Machine Learning Engineer and Data Scientist. -->
 
 Want to know more about me? [Check out my portfolio.](https://zamaniali1995.github.io/)
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
 [![Ali's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zamaniali1995&theme=tokyo-night&hide_border=true&area=true)](https://github.com/zamaniali1995/github-readme-activity-graph)
+
+</div>
+
+---
 
 [![HAPPY](./assets/happy.gif
 )](https://github.com/zamaniali1995/zamaniali1995)
