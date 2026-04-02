@@ -12,7 +12,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zamaniali1995/)
 <br>
 
-[![Portfolio Badge](https://img.shields.io/badge/Portfolio_Website?style=flat&logo=ghostfolio&logoColor=white&color=0D76A8)](https://zamaniali1995.github.io/)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio_Website?style=flat&logo=protodotio&logoColor=white&color=0D76A8)](https://zamaniali1995.github.io/)
 
 <!-- Hey there 👋 -->
 
