@@ -1,5 +1,17 @@
-[![Ali's GitHub Banner](./assets/linkedinBanner_1.png
-)](https://github.com/zamaniali1995/zamaniali1995)
+<!-- [![Ali's GitHub Banner](./assets/linkedinBanner_1.png
+)](https://github.com/zamaniali1995/zamaniali1995) -->
+
+<div align="center">
+
+# Hi there, I'm Ali Zamani 👋
+
+[![Typing SVG]([![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+and+Data+Scientist)](https://git.io/typing-svg))](https://git.io/typing-svg)
+
+[![GitHub followers](https://img.shields.io/github/followers/Yeachan-Heo?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/zamaniali1995)
+[![GitHub User's stars](https://img.shields.io/github/stars/Yeachan-Heo?style=for-the-badge&logo=github&color=0891b2&labelColor=1c1917)](https://github.com/zamaniali1995)
+[![Profile Views](https://komarev.com/ghpvc/?username=Yeachan-Heo&style=for-the-badge&color=blueviolet)](https://github.com/zamaniali1995)
+
+</div>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zamaniali1995/)
 
