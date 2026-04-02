@@ -33,6 +33,16 @@
 
 ---
 
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zamaniali1995&theme=tokyo-night&hide_border=true&area=true)](https://github.com/zamaniali1995/github-readme-activity-graph)
+
+</div>
+
+---
+
 [![HAPPY](./assets/happy.gif
 )](https://github.com/zamaniali1995/zamaniali1995)
 
