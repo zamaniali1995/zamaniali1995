@@ -5,8 +5,11 @@
 
 # Hi there, I'm Ali 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2000&multiline=true&width=455&height=59&lines=Machine+Learning+Engineer+and+;Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+Engineer;+Agentic+AI+Engineer)](https://git.io/typing-svg)
 
+
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2000&multiline=true&width=455&height=59&lines=Machine+Learning+Engineer+and+;Data+Scientist)](https://git.io/typing-svg)
+-->
 </div>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/zamaniali1995/) [![Portfolio Badge](https://img.shields.io/badge/Portfolio-Website-blue?style=flat&logo=startpage&logoColor=white&color=0D76A8)](https://zamaniali1995.github.io/)
