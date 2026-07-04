@@ -5,7 +5,8 @@
 
 # Hi there, I'm Ali 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+Engineer+%7C+Agentic+AI+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&multiline=true&width=437&height=52&lines=Machine+Learning+Engineer;Agentic+AI+Engineer)](https://git.io/typing-svg)
+
 
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=2000&multiline=true&width=455&height=59&lines=Machine+Learning+Engineer+and+;Data+Scientist)](https://git.io/typing-svg)
