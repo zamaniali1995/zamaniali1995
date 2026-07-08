@@ -280,19 +280,11 @@ Mental health resource navigation chatbot for healthcare workers — RNN-based i
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zamaniali1995&theme=tokyonight&hide_border=true&background=0d1117&ring=4AB197&fire=4AB197&currStreakLabel=4AB197&sideLabels=4AB197&dates=4AB197)](https://github.com/zamaniali1995)
-
-<br/>
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zamaniali1995&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=4AB197&line=4AB197&point=ffffff&custom_title=Contribution%20Activity)](https://github.com/zamaniali1995)
 
 <br/>
 
 ![Contribution Snake](https://raw.githubusercontent.com/zamaniali1995/zamaniali1995/output/github-contribution-grid-snake-dark.svg)
-
-<br/>
-
-![GitHub Trophies](./assets/github/trophy.svg)
 
 </div>
 
