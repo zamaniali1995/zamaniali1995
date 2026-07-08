@@ -111,17 +111,151 @@ graph LR
 
 ## Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![ml-pipeline](https://github-stats-extended.vercel.app/api/pin/?username=zamaniali1995&repo=ml-pipeline&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4AB197&icon_color=4AB197)](https://github.com/zamaniali1995/ml-pipeline)
-[![commonsense-validation-and-explanation](https://github-stats-extended.vercel.app/api/pin/?username=zamaniali1995&repo=commonsense-validation-and-explanation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4AB197&icon_color=4AB197)](https://github.com/zamaniali1995/commonsense-validation-and-explanation)
+### [`ml-pipeline`](https://github.com/zamaniali1995/ml-pipeline) · ⭐ 10
+
+**Open Source · Production ML**
+
+Reusable end-to-end ML pipeline template — config-driven preprocessing, training, validation, and Flask deployment.
 
 <br/>
 
-[![ngram-language-model](https://github-stats-extended.vercel.app/api/pin/?username=zamaniali1995&repo=ngram-language-model&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4AB197&icon_color=4AB197)](https://github.com/zamaniali1995/ngram-language-model)
-[![grammar_checker](https://github-stats-extended.vercel.app/api/pin/?username=zamaniali1995&repo=grammar_checker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4AB197&icon_color=4AB197)](https://github.com/zamaniali1995/grammar_checker)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-</div>
+<br/>
+
+[`Source Code`](https://github.com/zamaniali1995/ml-pipeline) · [`Live Demo`](https://zamaniali1995.pythonanywhere.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### [`commonsense-validation-and-explanation`](https://github.com/zamaniali1995/commonsense-validation-and-explanation)
+
+**NLP · SemEval 2020**
+
+Commonsense validation & explanation with RoBERTa, BERT, and GPT-2 on SemEval Task 4 benchmark data.
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+<br/>
+
+[`Source Code`](https://github.com/zamaniali1995/commonsense-validation-and-explanation)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`cover-letter-maker`](https://github.com/zamaniali1995/cover-letter-maker) · ⭐ 2
+
+**GenAI · LLM Application**
+
+Cover letter generator powered by ChatGPT — practical GenAI app with a lightweight JavaScript frontend.
+
+<br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+<br/>
+
+[`Source Code`](https://github.com/zamaniali1995/cover-letter-maker)
+
+</td>
+<td width="50%" valign="top">
+
+### [`spotify-music-recommender`](https://github.com/zamaniali1995/spotify-music-recommender)
+
+**Recommendation Systems · Deep Learning**
+
+Personalized music recommendations using content-based filtering, clustering, and deep learning on Spotify data.
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+<br/>
+
+[`Source Code`](https://github.com/zamaniali1995/spotify-music-recommender)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`flight-fare-forecasting`](https://github.com/zamaniali1995/flight-fare-forecasting)
+
+**Time Series · Forecasting**
+
+Flight price forecasting with ARIMA, Prophet, XGBoost, and LSTM — aligned with production travel pricing use cases.
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+<br/>
+
+[`Source Code`](https://github.com/zamaniali1995/flight-fare-forecasting)
+
+</td>
+<td width="50%" valign="top">
+
+### [`fraud-detection`](https://github.com/zamaniali1995/fraud-detection) · ⭐ 1
+
+**Tabular ML · Classification**
+
+Credit card fraud detection on imbalanced data — end-to-end notebooks covering feature engineering and model evaluation.
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+<br/>
+
+[`Source Code`](https://github.com/zamaniali1995/fraud-detection)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td>
+
+### [`MIRA Chatbot`](https://mymira.ca/) · Portfolio
+
+**Healthcare NLP · Full Stack · 97% Intent F1**
+
+Mental health resource navigation chatbot for healthcare workers — RNN-based intent detection, entity extraction, and sentiment-aware responses. Published at **ACM IVA 2023**.
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4AB197?style=flat-square&logo=spacy&logoColor=white)
+![Healthcare](https://img.shields.io/badge/Healthcare-0D6EFD?style=flat-square&logo=heart&logoColor=white)
+
+<br/>
+
+[`Live Demo`](https://mymira.ca/) · [`Portfolio`](https://zamaniali1995.github.io/) · [`Paper`](https://dl.acm.org/doi/10.1145/3570945.3607340)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -145,11 +279,6 @@ graph LR
 ## GitHub Analytics
 
 <div align="center">
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=zamaniali1995&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=4AB197&icon_color=4AB197)](https://github.com/zamaniali1995)
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=zamaniali1995&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4AB197&langs_count=8)](https://github.com/zamaniali1995)
-
-<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zamaniali1995&theme=tokyonight&hide_border=true&background=0d1117&ring=4AB197&fire=4AB197&currStreakLabel=4AB197&sideLabels=4AB197&dates=4AB197)](https://github.com/zamaniali1995)
 
