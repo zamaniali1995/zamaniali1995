@@ -14,6 +14,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zamaniali1995/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4AB197?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zamaniali1995.github.io/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-DC3545?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://zamaniali1995.github.io/assets/resume/AliZamaniCV.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zamaniali1995)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=cFk5cpEAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-7320-0976)
@@ -112,18 +113,13 @@ graph LR
 
 <div align="center">
 
-<a href="https://github.com/zamaniali1995/ml-pipeline">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=zamaniali1995&repo=ml-pipeline&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4AB197&icon_color=4AB197" alt="ml-pipeline" />
-</a>
-<a href="https://github.com/zamaniali1995/commonsense-validation-and-explanation">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=zamaniali1995&repo=commonsense-validation-and-explanation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4AB197&icon_color=4AB197" alt="commonsense-validation-and-explanation" />
-</a>
-<a href="https://github.com/zamaniali1995/ngram-language-model">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=zamaniali1995&repo=ngram-language-model&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4AB197&icon_color=4AB197" alt="ngram-language-model" />
-</a>
-<a href="https://github.com/zamaniali1995/grammar_checker">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=zamaniali1995&repo=grammar_checker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4AB197&icon_color=4AB197" alt="grammar_checker" />
-</a>
+[![ml-pipeline](https://github-stats-extended.vercel.app/api/pin/?username=zamaniali1995&repo=ml-pipeline&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4AB197&icon_color=4AB197)](https://github.com/zamaniali1995/ml-pipeline)
+[![commonsense-validation-and-explanation](https://github-stats-extended.vercel.app/api/pin/?username=zamaniali1995&repo=commonsense-validation-and-explanation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4AB197&icon_color=4AB197)](https://github.com/zamaniali1995/commonsense-validation-and-explanation)
+
+<br/>
+
+[![ngram-language-model](https://github-stats-extended.vercel.app/api/pin/?username=zamaniali1995&repo=ngram-language-model&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4AB197&icon_color=4AB197)](https://github.com/zamaniali1995/ngram-language-model)
+[![grammar_checker](https://github-stats-extended.vercel.app/api/pin/?username=zamaniali1995&repo=grammar_checker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4AB197&icon_color=4AB197)](https://github.com/zamaniali1995/grammar_checker)
 
 </div>
 
@@ -150,16 +146,12 @@ graph LR
 
 <div align="center">
 
-<a href="https://github.com/zamaniali1995">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zamaniali1995&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=4AB197&icon_color=4AB197" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/zamaniali1995">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zamaniali1995&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4AB197&langs_count=8" alt="Top Languages" />
-</a>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=zamaniali1995&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=4AB197&icon_color=4AB197)](https://github.com/zamaniali1995)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=zamaniali1995&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4AB197&langs_count=8)](https://github.com/zamaniali1995)
 
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zamaniali1995&theme=tokyonight&hide_border=true&background=0d1117&ring=4AB197&fire=4AB197&currStreakLabel=4AB197&sideLabels=4AB197&dates=4AB197)](https://github.com/zamaniali1995)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zamaniali1995&theme=tokyonight&hide_border=true&background=0d1117&ring=4AB197&fire=4AB197&currStreakLabel=4AB197&sideLabels=4AB197&dates=4AB197)](https://github.com/zamaniali1995)
 
 <br/>
 
@@ -171,7 +163,7 @@ graph LR
 
 <br/>
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=zamaniali1995&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8)](https://github.com/zamaniali1995)
+![GitHub Trophies](./assets/github/trophy.svg)
 
 </div>
 
