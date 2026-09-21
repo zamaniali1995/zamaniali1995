@@ -115,6 +115,25 @@ graph LR
 <tr>
 <td width="50%" valign="top">
 
+### [`plancontract`](https://github.com/zamaniali1995/plancontract)
+
+**Open Source · Agentic AI**
+
+Framework-agnostic Pydantic schemas and validators for multi-agent turn routing plans — typed contracts between planner and dispatcher, with topology derivation and CI-ready validation.
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Multi-Agent](https://img.shields.io/badge/Multi--Agent-7C3AED?style=flat-square)
+
+<br/>
+
+[`Source Code`](https://github.com/zamaniali1995/plancontract) · [`PyPI`](https://pypi.org/project/plancontract/)
+
+</td>
+<td width="50%" valign="top">
+
 ### [`ml-pipeline`](https://github.com/zamaniali1995/ml-pipeline) · ⭐ 10
 
 **Open Source · Production ML**
@@ -132,6 +151,8 @@ Reusable end-to-end ML pipeline template — config-driven preprocessing, traini
 [`Source Code`](https://github.com/zamaniali1995/ml-pipeline) · [`Live Demo`](https://zamaniali1995.pythonanywhere.com/)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [`commonsense-validation-and-explanation`](https://github.com/zamaniali1995/commonsense-validation-and-explanation)
@@ -151,8 +172,6 @@ Commonsense validation & explanation with RoBERTa, BERT, and GPT-2 on SemEval Ta
 [`Source Code`](https://github.com/zamaniali1995/commonsense-validation-and-explanation)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### [`cover-letter-maker`](https://github.com/zamaniali1995/cover-letter-maker) · ⭐ 2
@@ -169,24 +188,6 @@ Cover letter generator powered by ChatGPT — practical GenAI app with a lightwe
 <br/>
 
 [`Source Code`](https://github.com/zamaniali1995/cover-letter-maker)
-
-</td>
-<td width="50%" valign="top">
-
-### [`spotify-music-recommender`](https://github.com/zamaniali1995/spotify-music-recommender)
-
-**Recommendation Systems · Deep Learning**
-
-Personalized music recommendations using content-based filtering, clustering, and deep learning on Spotify data.
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-<br/>
-
-[`Source Code`](https://github.com/zamaniali1995/spotify-music-recommender)
 
 </td>
 </tr>
