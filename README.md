@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4AB197,100:0d1117&height=200&section=header&text=Hi%20there%2C%20I%27m%20Ali%20Zamani%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=twinkling" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=4AB197&center=true&vCenter=true&width=500&height=30&lines=Machine+Learning+Engineer;Agentic+AI+Engineer;%40+Loblaw+Digital+%C2%B7+Toronto" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=4AB197&center=true&vCenter=true&width=500&height=30&lines=Senior+Machine+Learning+Engineer;Agentic+AI+Engineer;%40+Loblaw+Digital+%C2%B7+Toronto" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -26,7 +26,7 @@
 
 ## About Me
 
-**Machine Learning Engineer** & **Agentic AI Engineer** at [Loblaw Digital](https://www.loblaw.ca/) · Toronto, ON
+**Senior Machine Learning Engineer** — Agentic AI at [Loblaw Digital](https://www.loblaw.ca/) · Toronto, ON
 
 I architect enterprise agentic AI, production RAG, and shared platform infrastructure — shipping intelligent systems from design to deployment at retail scale.
 
