@@ -32,13 +32,13 @@ I architect enterprise agentic AI, production RAG, and shared platform infrastru
 
 Previously at **Priceline (Booking Holdings)**, I built Vertex AI ML pipelines, a scalable GenAI framework with LLM-as-a-Judge validation, and NLP features including hotel review summarization that drove a **30% conversion uplift** in A/B testing.
 
-**M.Sc. Computer Science** — University of Alberta · [6 peer-reviewed publications](https://scholar.google.com/citations?user=cFk5cpEAAAAJ)
+**M.Sc. Computer Science** — University of Alberta · [4 publications](https://scholar.google.com/citations?user=cFk5cpEAAAAJ)
 
 <div align="center">
 
 | **5+** Years | **97%** RAG Hit Rate | **$75K+** Cost Savings | **30%** Conversion Uplift |
 |:---:|:---:|:---:|:---:|
-| **6** Publications | **MCP** Agent Platform | **Vertex AI** Pipelines | **$10M+** Client Impact |
+| **4** Publications | **MCP** Agent Platform | **Vertex AI** Pipelines | **$10M+** Client Impact |
 
 </div>
 
